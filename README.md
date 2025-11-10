@@ -1,6 +1,3 @@
-```markdown
----
-<!-- 🧭 Professional GitHub README Template (Extended Version) -->
 
 <p align="center">
   <img src="assets/banner.png" alt="Project Banner" width="100%">
