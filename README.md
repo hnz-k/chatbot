@@ -188,7 +188,7 @@ This project is licensed under the MIT License.
 
 ---
 
-❤️ Support the Project
+Support the Project
 
 If you find this project helpful, please consider giving it a ⭐ star!
 It helps others discover this repository and motivates further development.
@@ -207,13 +207,3 @@ Special thanks to:
 · Shields.io
 · Skill Icons
 · Unsplash for banner images
-
-```
-
-File README.md sudah diformat dengan sintaks Markdown yang benar dan siap digunakan di GitHub. Perbaikan yang dilakukan termasuk:
-
-1. Memperbaiki blok kode dengan penutup yang sesuai
-2. Memformat tabel dengan benar
-3. Menambahkan sintaks highlighting untuk blok kode
-4. Memastikan semua heading dan struktur konsisten
-5. Memperbaiki indentasi dan spacing
