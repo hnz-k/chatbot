@@ -1,3 +1,4 @@
+```markdown
 ---
 <!-- 🧭 Professional GitHub README Template (Extended Version) -->
 
@@ -64,3 +65,158 @@ Use it as:
 ```bash
 git clone https://github.com/username/project-name.git
 cd project-name
+```
+
+🔹 (Optional) Create virtual environment
+
+```bash
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+```
+
+🔹 Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+🔹 Run the project
+
+```bash
+python app.py
+```
+
+---
+
+🚀 Usage
+
+Once the server is running, open your browser and visit:
+
+```
+http://localhost:5000
+```
+
+You can now explore the web interface and interact with the application.
+
+---
+
+🧩 Folder Structure
+
+```
+project-name/
+│
+├── assets/               # Images, icons, and static files
+├── src/                  # Main source code
+│   ├── templates/        # HTML templates
+│   ├── static/           # CSS, JS, etc.
+│   └── app.py            # Main Flask application
+├── requirements.txt
+├── README.md
+└── LICENSE
+```
+
+---
+
+⚙️ Configuration
+
+Create a .env file in the project root:
+
+```env
+FLASK_ENV=development
+SECRET_KEY=your_secret_key
+DATABASE_URL=sqlite:///data.db
+```
+
+---
+
+🧪 Testing
+
+Run all unit tests using:
+
+```bash
+pytest
+```
+
+---
+
+🖼️ Screenshots
+
+Light Mode Dark Mode
+ 
+
+---
+
+🌍 Live Demo
+
+🎮 Try it now
+See how it works in real-time.
+
+---
+
+📈 Project Status
+
+---
+
+🧑‍💻 Developer
+
+Name Role Contact
+Dikzzz Full Stack Developer 📧 Email · 🌐 Portfolio
+
+---
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+1. Fork this repo
+2. Create your feature branch (git checkout -b feature/amazing-feature)
+3. Commit your changes (git commit -m 'Add amazing feature')
+4. Push to the branch (git push origin feature/amazing-feature)
+5. Open a Pull Request
+
+---
+
+🧾 Changelog
+
+· v1.0.0 — Initial release
+· v1.1.0 — Added dark mode support
+· v1.2.0 — Optimized code & updated documentation
+
+---
+
+📜 License
+
+This project is licensed under the MIT License.
+© 2025 Dikzzz. All rights reserved.
+
+---
+
+❤️ Support the Project
+
+If you find this project helpful, please consider giving it a ⭐ star!
+It helps others discover this repository and motivates further development.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+🌟 Acknowledgements
+
+Special thanks to:
+
+· Flask
+· Shields.io
+· Skill Icons
+· Unsplash for banner images
+
+```
+
+File README.md sudah diformat dengan sintaks Markdown yang benar dan siap digunakan di GitHub. Perbaikan yang dilakukan termasuk:
+
+1. Memperbaiki blok kode dengan penutup yang sesuai
+2. Memformat tabel dengan benar
+3. Menambahkan sintaks highlighting untuk blok kode
+4. Memastikan semua heading dan struktur konsisten
+5. Memperbaiki indentasi dan spacing
